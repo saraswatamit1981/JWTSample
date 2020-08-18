@@ -1,72 +1,72 @@
 {
         "credentials": {
-                        "apikey": "gG00Un/8R6wp7SePL60jiGYF7FwS8DgnG4fhNe5F8Pc=",
-                        "appId": "cs-71bc993e-83b6-54e4-a998-aae3308d7ce3"
+                        "apikey": "xxxxx",
+                        "appId": "xxxx"
         
                 },
         "credentials_hrbot_dev": {
-                        "apikey": "gG00Un/8R6wp7SePL60jiGYF7FwS8DgnG4fhNe5F8Pc=",
-                        "appId": "cs-71bc993e-83b6-54e4-a998-aae3308d7ce3"
+                        "apikey": "xxxx",
+                        "appId": "xxxxx"
         
                 },
         "credentials_legalbot_dev": {
-                        "apikey": "5n+4g/n3pwVWqrsazTMh4/GdF8RYtMgwyFRSf9/ba98=",
-                        "appId": "cs-dff20212-5cd7-598c-8a55-b46129e777fe"
+                        "apikey": "xxxx",
+                        "appId": "xxx"
                 
                         },
         "credentials_procurementbot_dev": {
-                        "apikey": "gG00Un/8R6wp7SePL60jiGYF7FwS8DgnG4fhNe5F8Pc=",
-                        "appId": "cs-71bc993e-83b6-54e4-a998-aae3308d7ce3"
+                        "apikey": "xxxxx",
+                        "appId": "xxxxx"
                         
                                 },
         "credentials_hrbot_uat": {
-                        "apikey": "gG00Un/8R6wp7SePL60jiGYF7FwS8DgnG4fhNe5F8Pc=",
-                        "appId": "cs-71bc993e-83b6-54e4-a998-aae3308d7ce3"
+                        "apikey": "xxxxx",
+                        "appId": "xxxxx"
                                 
                                         },
         "credentials_legalbot_uat": {
-                        "apikey": "gG00Un/8R6wp7SePL60jiGYF7FwS8DgnG4fhNe5F8Pc=",
-                        "appId": "cs-71bc993e-83b6-54e4-a998-aae3308d7ce3"
+                        "apikey": "xxxxx",
+                        "appId": "xxxxx"
                                        
                                                 },
         "credentials_procurementbot_uat": {
-                        "apikey": "gG00Un/8R6wp7SePL60jiGYF7FwS8DgnG4fhNe5F8Pc=",
-                        "appId": "cs-71bc993e-83b6-54e4-a998-aae3308d7ce3"
+                        "apikey": "xxxxxx",
+                        "appId": "xxxxxx"
                  
                 },
         "credentials_hrbot_stage": {
-                        "apikey": "M6ncQ3kJ1vMutrXUpK+UA30ndqqaqCti55XI4PAvg+Y=",
-                        "appId": "cs-02922e9b-a59a-5619-b13f-e0f8b65ba532"
+                        "apikey": "xxxxx",
+                        "appId": "xxxxx"
                                 
                                         },
         "credentials_legalbot_stage": {
-                        "apikey": "gG00Un/8R6wp7SePL60jiGYF7FwS8DgnG4fhNe5F8Pc=",
-                        "appId": "cs-71bc993e-83b6-54e4-a998-aae3308d7ce3"
+                        "apikey": "xxxxx",
+                        "appId": "xxxxxx"
                                        
                                                 },
         "credentials_procurementbot_stage": {
-                        "apikey": "gG00Un/8R6wp7SePL60jiGYF7FwS8DgnG4fhNe5F8Pc=",
-                        "appId": "cs-71bc993e-83b6-54e4-a998-aae3308d7ce3"
+                        "apikey": "xxxxx",
+                        "appId": "xxxxx"
                  
                 },                       
         "credentials_hrbot_prod": {
-                        "apikey": "x4AFM1QPi94CCXuDMWSxhRxfIjSnBATefBBT3PfyvNI=",
-                        "appId": "cs-c03c59f2-6988-587d-8712-8b56f624bf4d"
+                        "apikey": "xxxxx",
+                        "appId": "xxxxx"
                                 
                                         },
         "credentials_hrbot_prod2": {
-                        "apikey": "q/dbUTj/bvHu/UoM4tOnN+dum0vNMT2MIkjMGcagZ+g=",
-                        "appId": "cs-de55fdf8-b3a0-5277-88ef-0d436193034c"
+                        "apikey": "xxxxx",
+                        "appId": "xxxx"
                                 
                                         },
         "credentials_legalbot_prod": {
-                        "apikey": "gG00Un/8R6wp7SePL60jiGYF7FwS8DgnG4fhNe5F8Pc=",
-                        "appId": "cs-71bc993e-83b6-54e4-a998-aae3308d7ce3"
+                        "apikey": "xxxxx",
+                        "appId": "xxxxx"
                                        
                                                 },
         "credentials_procurementbot_prod": {
-                        "apikey": "gG00Un/8R6wp7SePL60jiGYF7FwS8DgnG4fhNe5F8Pc=",
-                        "appId": "cs-71bc993e-83b6-54e4-a998-aae3308d7ce3"
+                        "apikey": "xxxx",
+                        "appId": "xxxxx"
                  
                 },                                      
         "port": 3009	
